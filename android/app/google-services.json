@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78758381441",
+    "project_id": "flash-chat-d423c",
+    "storage_bucket": "flash-chat-d423c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78758381441:android:ef3f6e5ee767673f41ca80",
+        "android_client_info": {
+          "package_name": "com.lazyfinger.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78758381441-e5ec06vngdbes096c55e6cf90j109olg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYN7h9-jY8KGR-Ia-A1JGzXkS8M8Ale0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78758381441-e5ec06vngdbes096c55e6cf90j109olg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
